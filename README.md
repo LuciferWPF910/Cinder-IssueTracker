@@ -13,11 +13,11 @@ The official issue tracker for CinderRPG
 
 | Outcome | Reports |
 |:---|---:|
-| Patched | 235 |
+| Patched | 236 |
 | Solved | 382 |
 | Invalid | 0 |
 | Duplicate Report | 14 |
-| Cannot Replicate | 7 |
+| Cannot Replicate | 6 |
 
 ### By tag
 
@@ -41,6 +41,6 @@ The official issue tracker for CinderRPG
 
 Busiest week: **2025-01-06** (84 reports)
 
-<sub>Updated automatically, last on 2026-11-23 05:04 UTC. Reports are filed through the Discord bug report forum.</sub>
+<sub>Updated automatically, last on 2026-11-23 10:49 UTC. Reports are filed through the Discord bug report forum.</sub>
 
 <!-- tracker-stats:end -->
