@@ -7,7 +7,7 @@ The official issue tracker for CinderRPG
 
 | Total reports | Active | Closed | Reported (7 days) | Closed (7 days) |
 |:---:|:---:|:---:|:---:|:---:|
-| **693** | **66** | **627** | 4 | 343 |
+| **693** | **66** | **627** | 3 | 342 |
 
 ### By outcome
 
@@ -31,7 +31,7 @@ The official issue tracker for CinderRPG
 | FPS | 2 | 0 |
 | NPC Bug | 56 | 2 |
 | Urgent | 16 | 0 |
-| Investigating | 25 | 2 |
+| Investigating | 26 | 3 |
 | Needs Info | 1 | 1 |
 | Stale | 25 | 25 |
 
@@ -41,6 +41,6 @@ The official issue tracker for CinderRPG
 
 Busiest week: **2025-01-06** (84 reports)
 
-<sub>Updated automatically, last on 2026-11-24 04:50 UTC. Reports are filed through the Discord bug report forum.</sub>
+<sub>Updated automatically, last on 2026-11-24 10:50 UTC. Reports are filed through the Discord bug report forum.</sub>
 
 <!-- tracker-stats:end -->
