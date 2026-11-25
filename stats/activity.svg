@@ -7,19 +7,19 @@
 <line x1="44" y1="256.0" x2="844" y2="256.0" stroke="#30363d" stroke-width="1"/>
 <text x="38" y="260.0" font-size="11" fill="#8b949e" text-anchor="end">0</text>
 <line x1="44" y1="202.0" x2="844" y2="202.0" stroke="#30363d" stroke-width="1"/>
-<text x="38" y="206.0" font-size="11" fill="#8b949e" text-anchor="end">87</text>
+<text x="38" y="206.0" font-size="11" fill="#8b949e" text-anchor="end">90</text>
 <line x1="44" y1="148.0" x2="844" y2="148.0" stroke="#30363d" stroke-width="1"/>
-<text x="38" y="152.0" font-size="11" fill="#8b949e" text-anchor="end">174</text>
+<text x="38" y="152.0" font-size="11" fill="#8b949e" text-anchor="end">180</text>
 <line x1="44" y1="94.0" x2="844" y2="94.0" stroke="#30363d" stroke-width="1"/>
-<text x="38" y="98.0" font-size="11" fill="#8b949e" text-anchor="end">261</text>
+<text x="38" y="98.0" font-size="11" fill="#8b949e" text-anchor="end">270</text>
 <line x1="44" y1="40.0" x2="844" y2="40.0" stroke="#30363d" stroke-width="1"/>
-<text x="38" y="44.0" font-size="11" fill="#8b949e" text-anchor="end">348</text>
-<rect x="47.3" y="226.8" width="11.1" height="29.2" rx="1.5" fill="#f0883e"/>
-<rect x="60.4" y="243.6" width="11.1" height="12.4" rx="1.5" fill="#3fb950"/>
+<text x="38" y="44.0" font-size="11" fill="#8b949e" text-anchor="end">360</text>
+<rect x="47.3" y="227.8" width="11.1" height="28.2" rx="1.5" fill="#f0883e"/>
+<rect x="60.4" y="244.0" width="11.1" height="12.0" rx="1.5" fill="#3fb950"/>
 <text x="59.4" y="278" font-size="11" fill="#8b949e" text-anchor="middle">01 Jun</text>
-<rect x="78.1" y="241.1" width="11.1" height="14.9" rx="1.5" fill="#f0883e"/>
-<rect x="91.2" y="246.7" width="11.1" height="9.3" rx="1.5" fill="#3fb950"/>
-<rect x="108.8" y="253.5" width="11.1" height="2.5" rx="1.5" fill="#f0883e"/>
+<rect x="78.1" y="241.6" width="11.1" height="14.4" rx="1.5" fill="#f0883e"/>
+<rect x="91.2" y="247.0" width="11.1" height="9.0" rx="1.5" fill="#3fb950"/>
+<rect x="108.8" y="253.6" width="11.1" height="2.4" rx="1.5" fill="#f0883e"/>
 <text x="120.9" y="278" font-size="11" fill="#8b949e" text-anchor="middle">15 Jun</text>
 <rect x="139.6" y="254.8" width="11.1" height="1.2" rx="1.5" fill="#f0883e"/>
 <text x="182.5" y="278" font-size="11" fill="#8b949e" text-anchor="middle">29 Jun</text>
@@ -29,24 +29,24 @@
 <text x="428.6" y="278" font-size="11" fill="#8b949e" text-anchor="middle">24 Aug</text>
 <text x="490.2" y="278" font-size="11" fill="#8b949e" text-anchor="middle">07 Sep</text>
 <text x="551.7" y="278" font-size="11" fill="#8b949e" text-anchor="middle">21 Sep</text>
-<rect x="601.2" y="253.5" width="11.1" height="2.5" rx="1.5" fill="#f0883e"/>
+<rect x="601.2" y="253.6" width="11.1" height="2.4" rx="1.5" fill="#f0883e"/>
 <rect x="614.2" y="255.4" width="11.1" height="0.6" rx="1.5" fill="#3fb950"/>
 <text x="613.2" y="278" font-size="11" fill="#8b949e" text-anchor="middle">05 Oct</text>
-<rect x="631.9" y="235.5" width="11.1" height="20.5" rx="1.5" fill="#f0883e"/>
-<rect x="645.0" y="253.5" width="11.1" height="2.5" rx="1.5" fill="#3fb950"/>
-<rect x="662.7" y="245.4" width="11.1" height="10.6" rx="1.5" fill="#f0883e"/>
-<rect x="675.8" y="251.7" width="11.1" height="4.3" rx="1.5" fill="#3fb950"/>
+<rect x="631.9" y="236.2" width="11.1" height="19.8" rx="1.5" fill="#f0883e"/>
+<rect x="645.0" y="253.6" width="11.1" height="2.4" rx="1.5" fill="#3fb950"/>
+<rect x="662.7" y="245.8" width="11.1" height="10.2" rx="1.5" fill="#f0883e"/>
+<rect x="675.8" y="251.8" width="11.1" height="4.2" rx="1.5" fill="#3fb950"/>
 <text x="674.8" y="278" font-size="11" fill="#8b949e" text-anchor="middle">19 Oct</text>
-<rect x="693.5" y="246.1" width="11.1" height="9.9" rx="1.5" fill="#f0883e"/>
-<rect x="706.5" y="244.2" width="11.1" height="11.8" rx="1.5" fill="#3fb950"/>
-<rect x="724.2" y="244.2" width="11.1" height="11.8" rx="1.5" fill="#f0883e"/>
-<rect x="737.3" y="254.1" width="11.1" height="1.9" rx="1.5" fill="#3fb950"/>
+<rect x="693.5" y="246.4" width="11.1" height="9.6" rx="1.5" fill="#f0883e"/>
+<rect x="706.5" y="244.6" width="11.1" height="11.4" rx="1.5" fill="#3fb950"/>
+<rect x="724.2" y="244.6" width="11.1" height="11.4" rx="1.5" fill="#f0883e"/>
+<rect x="737.3" y="254.2" width="11.1" height="1.8" rx="1.5" fill="#3fb950"/>
 <text x="736.3" y="278" font-size="11" fill="#8b949e" text-anchor="middle">02 Nov</text>
-<rect x="755.0" y="252.3" width="11.1" height="3.7" rx="1.5" fill="#f0883e"/>
+<rect x="755.0" y="252.4" width="11.1" height="3.6" rx="1.5" fill="#f0883e"/>
 <rect x="785.8" y="254.8" width="11.1" height="1.2" rx="1.5" fill="#f0883e"/>
 <rect x="798.8" y="255.4" width="11.1" height="0.6" rx="1.5" fill="#3fb950"/>
 <text x="797.8" y="278" font-size="11" fill="#8b949e" text-anchor="middle">16 Nov</text>
 <rect x="816.5" y="254.8" width="11.1" height="1.2" rx="1.5" fill="#f0883e"/>
-<rect x="829.6" y="41.2" width="11.1" height="214.8" rx="1.5" fill="#3fb950"/>
+<rect x="829.6" y="40.6" width="11.1" height="215.4" rx="1.5" fill="#3fb950"/>
 <text x="844" y="294" font-size="11" fill="#8b949e" text-anchor="end">week starting</text>
 </svg>
