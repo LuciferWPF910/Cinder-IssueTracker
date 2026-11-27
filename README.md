@@ -33,7 +33,7 @@ The official issue tracker for CinderRPG
 | Urgent | 16 | 0 |
 | Investigating | 25 | 2 |
 | Needs Info | 1 | 0 |
-| Stale | 23 | 23 |
+| Stale | 25 | 25 |
 
 ### Reports and fixes per week
 
@@ -41,6 +41,6 @@ The official issue tracker for CinderRPG
 
 Median time to close: **0.9 days** | Busiest week: **2025-01-06** (84 reports)
 
-<sub>Updated automatically, last on 2026-11-27 00:33 UTC. Reports are filed through the Discord bug report forum.</sub>
+<sub>Updated automatically, last on 2026-11-27 18:33 UTC. Reports are filed through the Discord bug report forum.</sub>
 
 <!-- tracker-stats:end -->
